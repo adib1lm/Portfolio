@@ -1,16 +1,16 @@
 # Portfolio
 # KaiOS games I developed and Published:
-ShapedUP: https://www.kaiostech.com/store/apps/?bundle_id=kaios.app.shapedup
-StackUp: https://www.kaiostech.com/store/apps/?bundle_id=n/a
-FlapNGlide: https://www.kaiostech.com/store/apps/?bundle_id=FlapNGlide
+- ShapedUP: https://www.kaiostech.com/store/apps/?bundle_id=kaios.app.shapedup
+- StackUp: https://www.kaiostech.com/store/apps/?bundle_id=n/a
+- FlapNGlide: https://www.kaiostech.com/store/apps/?bundle_id=FlapNGlide
 
 # My Published Android game:
-FlapNGlide 3D: https://www.amazon.com/gp/product/B0C1VR8YZ4
+- FlapNGlide 3D: https://www.amazon.com/gp/product/B0C1VR8YZ4
 
 # Personal Projects:
-Chess 3D (built completely from scratch): https://adib-1lm.itch.io/chess-3d-local2p
-Replica (a game jam submission where it was ranked #1 for fun category and presentation): https://adib-1lm.itch.io/replica
-A voice-chat system made with peerJS (demo build): https://adib-1lm.itch.io/audio-chat-2p (password: adib1lm)
+- Chess 3D (built completely from scratch): https://adib-1lm.itch.io/chess-3d-local2p
+- Replica (a game jam submission where it was ranked #1 for fun category and presentation): https://adib-1lm.itch.io/replica
+- A voice-chat system made with peerJS (demo build): https://adib-1lm.itch.io/audio-chat-2p (password: adib1lm)
 
 
 # Online Multiplayer Lobby system fully built from scratch with Google Firebase and Unity
