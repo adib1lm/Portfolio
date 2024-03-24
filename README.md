@@ -27,5 +27,3 @@
 - Developed and published a complete Android game(Multiplayer) for one of my clients. Playstore Link: https://play.google.com/store/apps/details?id=com.husaini.chess3d&pcampaignid=web_share
 
 # My Itch.io page for Game Jams: https://adib-1lm.itch.io/
-
-# My Resume: http://tinyurl.com/adibshaikh332
