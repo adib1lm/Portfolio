@@ -6,6 +6,7 @@
 
 # My Published Android game:
 - FlapNGlide 3D: https://www.amazon.com/gp/product/B0C1VR8YZ4
+- StackUp: https://play.google.com/store/apps/details?id=com.xalsetgames.stackup
 
 # Personal Projects:
 - Chess 3D (built completely from scratch): https://adib-1lm.itch.io/chess-3d-local2p
